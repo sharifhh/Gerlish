@@ -1,0 +1,1 @@
+export {useFirestoreExercises} from './useFirestoreExercises';
